@@ -19,8 +19,8 @@
 # Desktop View
 ![Screenshot 3](screenshot/Screenshot-3.png)
 
-#Tablet view
+# Tablet view
 ![Screenshot 2](screenshot/Screenshot-2.png)
 
-## Mobile view
+# Mobile view
 ![Screenshot 1](screenshot/Screenshot-1.png)
