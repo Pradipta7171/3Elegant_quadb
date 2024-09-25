@@ -11,12 +11,8 @@
 - React + Vite
 - React Router
 
-## Credits
-
-- Figma Design: The design for this page is based on the work by [Jenkate](https://www.figma.com/community/file/1299098199775509142).
 
 ## Live View
-- https://terrytim.github.io/3legant-E-Commerce/
 
 ---
 
@@ -26,4 +22,3 @@
 
 ![Screenshot 3](screenshot/Screenshot-3.png)
 
-![Screenshot 3](screenshot/Screenshot-4.png)
